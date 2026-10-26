@@ -1,4 +1,24 @@
-# HR and Operations Platform (case study)
+<h1>HR and Operations Platform</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/case_study-0F172A?style=flat-square" alt="Case study">
+  <img src="https://img.shields.io/badge/status-in_production-0D9488?style=flat-square" alt="In production">
+  <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+</p>
+
+<table>
+  <tr>
+    <td align="center"><b>14</b><br><sub>modules</sub></td>
+    <td align="center"><b>~140</b><br><sub>API routes</sub></td>
+    <td align="center"><b>3 years</b><br><sub>of Excel history migrated<br>and reconciled</sub></td>
+    <td align="center"><b>27</b><br><sub>data models</sub></td>
+    <td align="center"><b>1</b><br><sub>developer</sub></td>
+  </tr>
+</table>
 
 An HR, payroll and operations platform I designed and built, as the sole developer, for a manpower
 company that supplies staff to oilfield-services clients in Iraq. It replaced a set of Excel master
